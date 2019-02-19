@@ -1,2 +1,5 @@
 # DBA_DTW_Stocks
-Dynamic Barycenter Averaging Dynamic Time Warping of Stocks Data
+
+DTW Barycenter Averaging (DBA) of Stocks Data
+
+I personally authored the iPython Notebooks on DTW DBA, and my partner authored the Notebook on SAX.

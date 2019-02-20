@@ -1,4 +1,4 @@
-# DBA_DTW_Stocks
+# DTW_DBA_Stocks
 
 K-Means Clustering of Stocks Data Using DTW Barycenter Averaging (DBA) 
 
